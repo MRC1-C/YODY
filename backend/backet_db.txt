@@ -1,0 +1,20 @@
+Giày, Áo_Hoodie, Áo_Khoác_Mùa_Đông
+Áo_Khoác_Mùa_Đông, Váy_Dài
+Áo_Hoodie, Quần_Jeans
+Dép_Lê, Áo_Hoodie, Áo_Vét, Áo_Len, Váy_Dài, Quần_Jeans
+Áo_Hoodie, Áo_Khoác_Mùa_Đông, Giày
+Giày, Áo_Sơ_Mi, Áo_Len
+Áo_Dạ_Dài, Giày, Áo_Sơ_Mi
+Áo_Hoodie, Áo_Len
+Áo_Vét, Váy_Dài
+Dép_Lê, Áo_Khoác_Mùa_Đông, Quần_Jeans
+Áo_Vét, Áo_Len, Váy_Dài
+Dép_Lê, Áo_Sơ_Mi, Áo_Dạ_Dài, Quần_Jeans
+Áo_Dạ_Dài, Quần_Jeans, Áo_Hoodie, Áo_Len
+Áo_Khoác_Mùa_Đông, Áo_Sơ_Mi, Áo_Dạ_Dài, Váy_Dài, Giày
+Giày, Áo_Khoác_Mùa_Đông, Áo_Len, Váy_Dài
+Giày, Dép_Lê, Áo_Vét, Áo_Sơ_Mi
+Áo_Hoodie, Áo_Sơ_Mi, Áo_Len
+Giày, Áo_Khoác_Mùa_Đông, Áo_Dạ_Dài
+Áo_Sơ_Mi, Áo_Dạ_Dài, Áo_Hoodie, Giày
+Quần_Jeans, Áo_Len, Váy_Dài
